@@ -1,0 +1,8 @@
+[submodule "SatComACS"]
+	path = SatComACS
+	url = https://github.com/InMechaSol/SatComACS.git
+	branch = main
+[submodule "ccNOos"]
+	path = ccNOos
+	url = https://github.com/InMechaSol/ccNOos.git
+	branch = main
